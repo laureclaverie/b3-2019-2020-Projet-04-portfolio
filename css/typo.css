@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body{
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 1.25;
+  font-family: 'Righteous', serif;
+}
+
+h2 {
+  font-size: 1em;
+  font-family:'Quicksand', serif;
+  padding: 0em;
+  color: #FF5805;
+}
+
+ul{
+  font-size: 8px;
+  font-family:'Quicksand', serif;
+  color : #001AC7;
+  padding: 1em;
+}
+
+figcaption{
+font-size: 17px;
+font-family: 'Quicksand', serif;
+}
+
+li{
+  font-size: 2em;
+    font-family: 'Righteous', serif;
+}
+#laure{
+  font-size: 2em;
+  font-family:'Quicksand', serif;
+  color : #001AC7;
+  padding: 1em;
+}
+#portfoliolaure{
+  font-family: 'Righteous';
+}
+#cont{
+  font-size: 2em;
+  font-family:'Quicksand', serif;
+  color : #001AC7;
+  padding: 0em;
+}
+
+footer{
+  font-size: 20px;
+  font-family:'Quicksand', serif;
+  padding: 2em;
+  color: #FF5805;
+  text-align: center;
+}
