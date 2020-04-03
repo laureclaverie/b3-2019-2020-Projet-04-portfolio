@@ -39,8 +39,12 @@ h1{
   text-align: center;
 }
 #aboutme{
-  text-align: left;
-  padding: 1em;
+  padding: 50em;
+  text-align: center;
+}
+
+#laure{
+  padding: 50em;
   text-align: center;
 }
 #cont{
@@ -52,11 +56,14 @@ h1{
 #taille{
   font-size: 10px;
 }
+#intro{
+  text-align: center;
+}
 
 .project-feature-container {
-  padding: em;
+  padding: 2em;
   max-width: 1500px;
-  margin:center;
+  margin-bottom: 3em;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
